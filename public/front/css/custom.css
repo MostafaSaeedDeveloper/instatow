@@ -1,0 +1,36 @@
+.autocomplete {
+    background: #fff;
+    color: #000;
+    height: 200px;
+    overflow: auto;
+    position: absolute;
+    z-index: 9999;
+    width: 93%;
+}
+.autocomplete li {
+    cursor: pointer;
+    padding: 10px;
+}
+.autocomplete li:hover {
+    background: #f06414;
+    cursor: pointer;
+    color: #fff;
+}
+.about-block .inner-box .icon {
+    color: #fff
+}
+.about-section {
+    position: relative;
+    padding: 0px 0;
+}
+.myaccount-btn {
+    margin: 20px;
+    background: #f06414;
+    padding: 8px 17px;
+    border-radius: 50%;
+    color: #fff;
+}
+.myaccount-btn:hover {
+    background: #204a9e;
+    color: #fff;
+}
